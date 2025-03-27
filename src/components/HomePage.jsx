@@ -11,7 +11,7 @@ const UserInfoCard = memo(({ user }) => {
     <Card className="shadow-sm text-center">
       <div className="bg-light p-3" style={{ borderTopLeftRadius: '8px', borderTopRightRadius: '8px' }}>
         <img 
-          src={"/public/images/profilePic.png"} 
+          src={"https://i.ibb.co/B5YqdQyB/profile-Pic.png"} 
           className="rounded-circle mb-3 profile-pic" 
           style={{ width: '100px', height: '100px' }} 
           alt={user.name} 
