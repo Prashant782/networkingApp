@@ -19,7 +19,7 @@ const ProfilePage = () => {
       id: 1,
       username: 'Prashant',
       name: 'Prashant kr. Sah',
-      profilePic: '/public/images/profilePic.png',
+      profilePic: 'https://i.ibb.co/B5YqdQyB/profile-Pic.png',
       coverPic: 'https://images.unsplash.com/photo-1504805572947-34fad45aed93?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&h=400&q=80',
       bio: 'Software Engineer passionate about web development and building user-friendly applications. Always learning and exploring new technologies.',
       jobTitle: 'React Developement training at Incture',
