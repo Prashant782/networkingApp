@@ -1,7 +1,7 @@
 import React, { useState, useEffect, useCallback, memo } from 'react';
 import { Container, Row, Col, Card, Button, Form } from 'react-bootstrap';
 import PostCard from './PostCard';
-import CommentModal from './commentModal';
+import CommentModal from './CommentModal';
 import mockPosts from '../data/posts.json';
 import { useAppContext } from '../context/AppContext';
 import { ActionTypes } from '../context/AppContext';
