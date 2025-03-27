@@ -1,5 +1,5 @@
 import React, { createContext, useContext, useReducer, useEffect } from 'react';
-import { getFromLocalStorage,saveToLocalStorage } from '../utils/LocalStorage';
+import { getFromLocalStorage,saveToLocalStorage } from '../utils/localStorage';
 
 const initialState = {
   user: null,
