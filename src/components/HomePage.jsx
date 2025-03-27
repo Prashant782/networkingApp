@@ -73,7 +73,7 @@ const NewPostCard = memo(({ user }) => {
       <Card.Body className="p-3">
         <div className="d-flex">
           <img 
-            src={'/public/images/profilePic.png'} 
+            src={'https://i.ibb.co/B5YqdQyB/profile-Pic.png'} 
             className="rounded-circle me-2" 
             width="40" 
             height="40" 
