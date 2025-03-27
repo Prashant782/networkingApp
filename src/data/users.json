@@ -1,0 +1,35 @@
+[
+    {
+      "id": 1,
+      "username": "Prashant",
+      "name": "Prashant",
+      "profilePic": "/public/images/profilePic",
+      "coverPic": "https://via.placeholder.com/800x200",
+      "bio": "Software Engineer passionate about web development",
+      "jobTitle": "React Developement training at Incture",
+      "location": "bbsr,odisha",
+      "connections": 500
+    },
+    {
+      "id": 2,
+      "username": "janesmith",
+      "name": "Jane Smith",
+      "profilePic": "https://via.placeholder.com/150",
+      "coverPic": "https://via.placeholder.com/800x200",
+      "bio": "Product Manager with 8+ years of experience in tech",
+      "jobTitle": "Product Manager at Google",
+      "location": "Mountain View, CA",
+      "connections": 650
+    },
+    {
+      "id": 3,
+      "username": "bobjohnson",
+      "name": "Bob Johnson",
+      "profilePic": "https://via.placeholder.com/150",
+      "coverPic": "https://via.placeholder.com/800x200",
+      "bio": "Experienced software engineer with a focus on backend development",
+      "jobTitle": "Software Engineer at Microsoft",
+      "location": "Redmond, WA",
+      "connections": 480
+    }
+  ]

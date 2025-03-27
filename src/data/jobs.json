@@ -1,0 +1,68 @@
+{ "jobs":
+[
+    {
+      "id": 1,
+      "title": "Frontend Developer",
+      "company": "Google",
+      "logo": "https://static.vecteezy.com/system/resources/previews/022/484/503/large_2x/google-lens-icon-logo-symbol-free-png.png",
+      "location": "Mountain View, CA",
+      "type": "Full-time",
+      "salary": "$120,000 - $150,000",
+      "description": "We are looking for a Frontend Developer to join our team. You will be responsible for developing and implementing user interface components using React.js and other frontend technologies.",
+      "requirements": [
+        "5+ years experience with React",
+        "Strong knowledge of JavaScript, HTML, and CSS",
+        "Experience with responsive design"
+      ],
+      "posted": "3 days ago"
+    },
+    {
+      "id": 2,
+      "title": "Backend Engineer",
+      "company": "Microsoft",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg",
+      "location": "Redmond, WA",
+      "type": "Full-time",
+      "salary": "$130,000 - $160,000",
+      "description": "Join our team of backend engineers working on scalable solutions for our cloud products. You'll be working with modern technologies in a fast-paced environment.",
+      "requirements": [
+        "Experience with Node.js and Express",
+        "Knowledge of database systems like MongoDB and SQL",
+        "Understanding of cloud services (AWS, Azure, or GCP)"
+      ],
+      "posted": "1 week ago"
+    },
+    {
+      "id": 3,
+      "title": "UX Designer",
+      "company": "Apple",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg",
+      "location": "Cupertino, CA",
+      "type": "Full-time",
+      "salary": "$110,000 - $140,000",
+      "description": "We're looking for a talented UX Designer to help create intuitive and engaging user experiences for our products. You'll work closely with product managers and engineers to define and implement innovative solutions.",
+      "requirements": [
+        "3+ years of UX design experience",
+        "Proficiency with design tools like Figma, Sketch",
+        "Portfolio demonstrating strong UX principles"
+      ],
+      "posted": "2 days ago"
+    },
+    {
+      "id": 4,
+      "title": "Data Scientist",
+      "company": "Amazon",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Amazon_2024.svg/1920px-Amazon_2024.svg.png",
+      "location": "Seattle, WA",
+      "type": "Full-time",
+      "salary": "$140,000 - $170,000",
+      "description": "Join our data science team to analyze and interpret complex data to help drive business decisions. You'll apply advanced statistical analysis and machine learning techniques.",
+      "requirements": [
+        "Master's or PhD in Computer Science, Statistics, or related field",
+        "Experience with Python, R, and SQL",
+        "Knowledge of machine learning frameworks"
+      ],  
+      "posted": "5 days ago"
+    }
+  ]
+}

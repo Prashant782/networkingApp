@@ -1,0 +1,77 @@
+[
+  {
+    "id": 4,
+    "userId": 5,
+    "userName": "Michael Brown",
+    "userTitle": "Data Scientist at Amazon",
+    "userProfilePic": "https://randomuser.me/api/portraits/men/32.jpg",
+    "content": "Just published my research on machine learning applications in healthcare. Proud to contribute to this important field! #DataScience #Healthcare #AI",
+    "image": "https://images.unsplash.com/photo-1576091160550-2173dba999ef",
+    "likes": 178,
+    "comments": [
+      { "id": 1, "userId": 2, "userName": "Jane Smith", "content": "This is groundbreaking work, congrats!" },
+      { "id": 2, "userId": 7, "userName": "Emma Davis", "content": "Would love to collaborate on future research." }
+    ],
+    "timestamp": "8h ago"
+  },
+ 
+    {
+      "id": 3,
+      "userId": 4,
+      "userName": "Sarah Williams",
+      "userTitle": "UX Designer at Adobe",
+      "userProfilePic": "https://randomuser.me/api/portraits/women/22.jpg",
+      "content": "Design is not just what it looks like and feels like. Design is how it works. - Steve Jobs",
+      "image": "https://images.unsplash.com/photo-1561070791-2526d30994b5",
+      "likes": 210,
+      "comments": [
+        { "id": 1, "userId": 5, "userName": "Michael Brown", "content": "So true! Function and form need to work together." },
+        { "id": 2, "userId": 2, "userName": "Jane Smith", "content": "Great reminder!" }
+      ],
+      "timestamp": "1d ago"
+    },
+    {
+      "id": 2,
+      "userId": 3,
+      "userName": "Bob Johnson",
+      "userTitle": "Software Engineer at Microsoft",
+      "userProfilePic": "https://randomuser.me/api/portraits/men/45.jpg",
+      "content": "Just completed a challenging project using React and Node.js. It's amazing what you can build with modern web technologies!",
+      "image": null,
+      "likes": 85,
+      "comments": [],
+      "timestamp": "5h ago"
+    },
+    {
+      "id": 4,
+      "userId": 5,
+      "userName": "Michael Brown",
+      "userTitle": "Data Scientist at Amazon",
+      "userProfilePic": "https://randomuser.me/api/portraits/men/32.jpg",
+      "content": "Just published my research on machine learning applications in healthcare. Proud to contribute to this important field! #DataScience #Healthcare #AI",
+      "image": "https://images.unsplash.com/photo-1576091160550-2173dba999ef",
+      "likes": 178,
+      "comments": [
+        { "id": 1, "userId": 2, "userName": "Jane Smith", "content": "This is groundbreaking work, congrats!" },
+        { "id": 2, "userId": 7, "userName": "Emma Davis", "content": "Would love to collaborate on future research." }
+      ],
+      "timestamp": "8h ago"
+    },
+    {
+      "id": 5,
+      "userId": 6,
+      "userName": "David Chen",
+      "userTitle": "Frontend Developer at Netflix",
+      "userProfilePic": "https://randomuser.me/api/portraits/men/22.jpg",
+      "content": "Today marks my 5th anniversary at Netflix! Grateful for all the amazing projects and brilliant colleagues I've worked with. #CareerMilestone",
+      "image": "https://images.unsplash.com/photo-1522198734915-76c764a8454d",
+      "likes": 324,
+      "comments": [
+        { "id": 1, "userId": 4, "userName": "Sarah Williams", "content": "Congrats David! You've come so far!" },
+        { "id": 2, "userId": 3, "userName": "Bob Johnson", "content": "Impressive milestone! Any wisdom to share?" },
+        { "id": 3, "userId": 6, "userName": "David Chen", "content": "Thanks everyone! My advice: never stop learning." }
+      ],
+      "timestamp": "12h ago"
+    }
+    
+  ]

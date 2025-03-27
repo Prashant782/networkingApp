@@ -1,0 +1,10 @@
+@import "bootstrap/dist/css/bootstrap.min.css";
+.nav-item-compact {
+    height: 52px;
+    display: flex;
+    align-items: center;
+  }
+  
+  .cursor-pointer {
+    cursor: pointer;
+  }
