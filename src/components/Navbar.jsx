@@ -132,7 +132,7 @@ const NavbarComponent = () => {
             <Dropdown className="mx-1 mx-xl-2 text-center">
               <Dropdown.Toggle as={Nav.Link} className="d-flex flex-column align-items-center">
                 <img 
-                  src={"/public/images/profilePic.png"} 
+                  src={"https://i.ibb.co/B5YqdQyB/profile-Pic.png"} 
                   alt="profile" 
                   className="rounded-circle border"
                   style={{ width: '24px', height: '24px', objectFit: 'cover' }} 
@@ -143,7 +143,7 @@ const NavbarComponent = () => {
                 <div className="px-3 py-2">
                   <div className="d-flex">
                     <img 
-                      src={"/public/images/profilePic.png"} 
+                      src={"https://i.ibb.co/B5YqdQyB/profile-Pic.png"} 
                       alt="profile" 
                       className="rounded-circle"
                       style={{ width: '56px', height: '56px', objectFit: 'cover' }}
